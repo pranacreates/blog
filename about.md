@@ -4,16 +4,16 @@ title: About
 ---
 
 
-<figure>
+<!-- <figure>
   <img alt="Christopher Hitchens" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Christopher_Hitchens_2008-04-24_001.jpg" />
   <figcaption>
     Photo by Fri Tanke and licensed under the <a href="https://creativecommons.org/licenses/by/3.0/deed.en">Creative Commons Attribution 3.0 Unported</a> license.
   </figcaption>
 </figure>
 
-From [Wikipedia](https://en.wikipedia.org/wiki/Christopher_Hitchens):
+From [Wikipedia](https://en.wikipedia.org/wiki/Christopher_Hitchens): -->
 
-> Hi,
+Hi,
 Welcome to another personal blog, maybe your 31st one today. If you feel - wow, there's one more sapien putting out all the random ideas for views and even silly, considering of making it a living, I can relate to you! With the intrusion of technology into our curious lives, I see blogs popping up everyday. Some about food, some about Politics, some about experiences and most of them about it-is-cool-how-I-learned-stuff-two-seconds-ago-and-I-am-writing-about-it-already. 
 
 This is not one such. This is purely mine. This is not for the second person, their views or reviews. This is just me blurting out what I can think of. Random. On sunny days. On gloomy days. While doing something else. Hoping to do something else. Anything and everything.
